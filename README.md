@@ -40,7 +40,7 @@
 - All the data are stored in the MYSQL database.
 
 - This Application is deployed on the server, you can see by clicking on this swagger link:-
-http://3.143.245.83:8080/swagger-ui/index.html#/
+http://3.16.155.140:8080/swagger-ui/index.html
 - LinkedIn profile Link:-
 https://www.linkedin.com/in/sankalp-trimade-7678a31a5/
 
